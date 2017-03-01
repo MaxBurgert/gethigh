@@ -1,4 +1,4 @@
-#Added all Members to repo
+# Added all Members to repo
 Now everybody joined our repo and we can start now.
 # Hello World
 In future, you can read in this blog about our game. This is an example Blog entry and will be used similar in upcoming blog entries.
