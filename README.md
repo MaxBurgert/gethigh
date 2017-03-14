@@ -1,3 +1,8 @@
+# First Steps
+We discussed properties of our networkprotocol and outlined some commands that we definitely want to implement. In addition to that, we also started to create a first draft of our Login/Lobby GUI. This should be a fun week!
+
+`by Max Burgert on 14.03`
+
 # Finished presentation for milestone 1
 Finished presentation for milestone 1 and pushed it.
 
