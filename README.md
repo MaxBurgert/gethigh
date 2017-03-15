@@ -2,6 +2,8 @@
 After we tried to add Gradle to our project afterwards and a lot of errors appeard, we decided to create a new clean project in Intellij with Gradle support from the very beginning.
 Now we can also add Continuous Integration to our repo.
 
+`by Tom Cinbis on 15.03
+
 # First Steps
 We discussed properties of our networkprotocol and outlined some commands that we definitely want to implement. In addition to that, we also started to create a first draft of our Login/Lobby GUI. This should be a fun week!
 
