@@ -1,5 +1,10 @@
+# Protocol and LobbyUI touches 
+We created a first draft of our network protocol and worked on the Login/Lobby UI which lets us test the server/client interaction in the upcoming days.
+
+`by Max Burgert on 16.03`
+
 # Restructure & CI
-After we tried to add Gradle to our project afterwards and a lot of errors appeard, we decided to create a new clean project in Intellij with Gradle support from the very beginning.
+After we tried to add Gradle to our project lot of errors appeard, we decided to create a new clean project in Intellij with Gradle support from the very beginning.
 Now we can also add Continuous Integration to our repo.
 
 `by Tom Cinbis on 15.03`
