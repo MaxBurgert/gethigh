@@ -1,3 +1,8 @@
+# Chatter like magpie
+A small step for mankind, a giant leap towards milestone 2! We now got a working chat between several clients with UI implementation. Earlier this week we fixed a problem where displaying the chat in the JavaFX textarea threw a NullPointerException. Besides that, we found out that a client who is still in the login window gets an error when other clients have already begun with chatting. This NullPointer was also fixed by initializing the listening from a client to the chatroom after he leaves the login window.
+
+`by Max Burgert on 21.03`
+
 # Protocol and LobbyUI touches 
 We created a first draft of our network protocol and worked on the Login/Lobby UI which lets us test the server/client interaction in the upcoming days. Tom and Paul also worked on a basic server/client setup based on learned topics in the lecture. Basic communication between  server and at least two clients was tested.
 
