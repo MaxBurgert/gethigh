@@ -1,3 +1,8 @@
+# No ping, no game
+Yesterday we reworked our network protocol which is now based on enums instead of Strings. We implemented chat commands through which is now possible to change ones nickname. When closing the application, the client gets now properly logged out from the server and all background threads are closed. With ping/pong the server now checks if the client sends signs of a working connection, if he doesn't, the server will disconnect the client after three seconds from the server. In sight of milestone 2 we reviewed our code and documented as much as we could. Today, we want to descide on our code quality concept and document our protocol in a seperate file.
+
+`Max Burgert on 24.03`
+
 # Chatter like a magpie
 A small step for mankind, a giant leap towards milestone 2! We now got a working chat between several clients with UI implementation. Earlier this week we fixed a problem where displaying the chat in the JavaFX textarea threw a NullPointerException. Besides that, we found out that a client who is still in the login window gets an error when other clients have already begun with chatting. This NullPointer was also fixed by initializing the listening from a client to the chatroom after he leaves the login window.
 
