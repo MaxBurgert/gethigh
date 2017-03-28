@@ -1,3 +1,10 @@
+# Let's have a meeting
+Today we agreed on a weekly two hour meeting on tuesdays, where we wnat to discuss our weekly goals and agreed on deadlines for certain tasks. We also want to review our code and keep it up with the software quality concept.
+
+Till next Tuesday our aim is to implement the management of multiple gamelobbies on the server side and the manipulation (creation, joining, leaving) of a gamelobby on the client side. Further, first drafts of our gamelogic (datastructures) on which the basic game will be based on are due to the 4th of April. 
+
+`Max Burgert on 28.03`
+
 # No ping, no game
 Yesterday we reworked our network protocol which is now based on enums instead of Strings. We implemented chat commands through which is now possible to change ones nickname. When closing the application, the client gets now properly logged off from the server and all client side background threads are closed. With ping/pong the server now checks if the client sends signs of a working connection, if he doesn't, the server will disconnect the client after three seconds from the server. In sight of milestone 2 we reviewed our code and documented as much as we could. Today, we want to descide on our code quality concept and document our protocol in a seperate file.
 
