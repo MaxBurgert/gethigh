@@ -1,5 +1,5 @@
 # Let's have a meeting
-Today we agreed on a weekly two hour meeting on tuesdays, where we wnat to discuss our weekly goals and agreed on deadlines for certain tasks. We also want to review our code and keep it up with the software quality concept.
+Today we agreed on a weekly two hour meeting on tuesdays, where we want to discuss our weekly goals and agreed on deadlines for certain tasks. We also want to review our code and keep it up with the software quality concept.
 
 Till next Tuesday our aim is to implement the management of multiple gamelobbies on the server side and the manipulation (creation, joining, leaving) of a gamelobby on the client side. Further, first drafts of our gamelogic (datastructures) on which the basic game will be based on are due to the 4th of April. 
 
