@@ -1,3 +1,8 @@
+# Private love messages :heart:
+Today we finished and implemented the whisper function in our lobby. It is now possible to send non-public messages to a specific client. These messages therefore will only be shown to the receiving and also to the sending client.
+
+`Tim Königl on 29.03`
+
 # Let's have a meeting
 Today we agreed on a weekly two hour meeting on tuesdays, where we want to discuss our weekly goals and agreed on deadlines for certain tasks. We also want to review our code and keep it up with the software quality concept.
 
