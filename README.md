@@ -1,4 +1,4 @@
-# Private love messages :heart:
+# Private love messages
 Today we finished and implemented the whisper function in our lobby. It is now possible to send non-public messages to a specific client. These messages therefore will only be shown to the receiving and also to the sending client.
 
 `Tim Königl on 29.03`
