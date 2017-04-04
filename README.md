@@ -1,5 +1,5 @@
 # P stands for Progress
-It is Tuesday again and we had our weekly team meeting where we discussed our future approach to milestone 3, presented and merged our progress on the goals which we agreed on last week. 
+It is Tuesday again and we had our weekly team meeting where we discussed our further approach to milestone 3, presented and merged our progress on the goals which we agreed on last week. 
 
 After hours of trying, Tom was able to get the CI function in gitlab running on last wednesday, which should play an important factor in our quality concept measurements. Since this was also a point of critique by the tutors on milestone 2, we will investigate till next tuesday in a more concrete way of measuring and where to measure software quality aspects.
 
