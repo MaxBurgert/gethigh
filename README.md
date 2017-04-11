@@ -6,10 +6,7 @@ Thanks to easter, we will focus this week on a basic implementation of our game 
 In the last days, we also made progress in our game logic. The collision detection is working but far more important is the collision handling which gave us the possibility to a basic player control. 
 
 Have a look at this preview for milestone 3:
-
-![screenshot]
-
-[screenshot]: https://github.com/MaxBurgert/gethigh/blob/master/2017-04-11%2010_09_10-Get%20High%5B524%5D.png
+![alt text](https://github.com/MaxBurgert/gethigh/2017-04-11 10_09_10-Get High[524].png "Logo Title Text 1")
 
 `Max Burgert on 11.4`
 
