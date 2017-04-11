@@ -1,3 +1,15 @@
+# Ready up!
+The game lobby is in its final steps as it now provides the function to start, end and open a game. When all clients in a game lobby have pressed the ready button, the game will start automatically.
+We also made changes to the logout handling for the server and client side, which fixes a bug where the client closed the window but was not properly logged off. 
+
+Thanks to easter, we will focus this week on a basic implementation of our game loop. 
+In the last days, we also made progress in our game logic. The collision detection is working but far more important is the collision handling which gave us the possibility to a basic player control. 
+
+Have a look at this preview for milestone 3:
+
+
+`Max Burgert on 11.4`
+
 # P stands for Progress
 It is Tuesday again and we had our weekly team meeting where we discussed our further approach to milestone 3, presented and merged our progress on the goals which we agreed on last week. 
 
