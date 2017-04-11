@@ -7,6 +7,9 @@ In the last days, we also made progress in our game logic. The collision detecti
 
 Have a look at this preview for milestone 3:
 
+![screenshot]
+
+[screenshot]: https://github.com/MaxBurgert/gethigh/blob/master/2017-04-11%2010_09_10-Get%20High%5B524%5D.png
 
 `Max Burgert on 11.4`
 
