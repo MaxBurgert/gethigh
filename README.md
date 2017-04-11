@@ -4,7 +4,7 @@ We also made changes to the logout handling for the server and client side, whic
 
 Thanks to easter, we will focus this week on a basic implementation of our game loop. 
 In the last days, we also made progress in our game logic. The collision detection is working but far more important is the collision handling which gave us the possibility to a basic player control. 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="2017-04-11 10_09_10-Get High[524].png">](Our game rigth now)
 
 
 `Max Burgert on 11.4`
