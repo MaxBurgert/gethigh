@@ -5,9 +5,6 @@ We also made changes to the logout handling for the server and client side, whic
 Thanks to easter, we will focus this week on a basic implementation of our game loop. 
 In the last days, we also made progress in our game logic. The collision detection is working but far more important is the collision handling which gave us the possibility to a basic player control. 
 
-Have a look at this preview for milestone 3:
-![alt text](http://imgur.com/a/M3kH5 "Screenshot")
-
 `Max Burgert on 11.4`
 
 # P stands for Progress
