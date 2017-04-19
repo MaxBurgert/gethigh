@@ -1,3 +1,10 @@
+# Milestone 3, we are getting higher!
+Yesterday we had our team meeting and reviewed the last week together. In our last blog entry we told you that we managed it to start a game and that there are progresses in our collision detection.
+We have now made big steps in the last week by optimizing our collision detection and collision handling which is now working totally fine. Furthermore we now have a basic gamecycle so that the game is playable with more than one person in a really basic way.
+But thats not all, besides all the coding we also took care of the important documentation. We rewrote our software quality concept, documented and beautified our code and prepared the presentation for milestone 3 what will be the next exciting event these days we are looking forward to!
+
+`Tim Königl on 19.4`
+
 # Ready up!
 The game lobby is in its final steps as it now provides the function to start, end and open a game. When all clients in a game lobby have pressed the ready button, the game will start automatically.
 We also made changes to the logout handling for the server and client side, which fixes a bug where the client closed the window but was not properly logged off. 
