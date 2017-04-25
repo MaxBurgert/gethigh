@@ -1,3 +1,7 @@
+# Graphic Update
+<img src="graphicupdate.png">
+
+`Max Burgert on 25.4`
 # UI changes and player camera
 <img src="bugs.jpg">
 
