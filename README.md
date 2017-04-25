@@ -1,6 +1,8 @@
 # UI changes and player camera
 <img src="bugs.jpg">
 
+&copy; [Quelle](ww.quickmeme.com/meme/3ofono)
+
 Since the presentation of milestone 3 we reworked our lobby window and added a player camera which does not show the full map size anymore, but a certain part around the playing character.
 
 The picture sums up our goal for the upcoming week, which is to fix several bugs where the client disconnects when idle in chat window, during the game and after the game. We also want to improve updates of the player location in the game cycle, since rubberbanding sets in after a few minutes.
