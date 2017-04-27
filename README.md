@@ -1,3 +1,12 @@
+# Ping and Pong - A story on it's own
+We totally redesigned our Ping and Pong strategy, because it was kind of ugly and didn´t work correctly. Most of the time our Server decided to kick a client, pretty much random, even if the network connection was perfectly fine. Especially Paul’s laptop got kicked often, because the server didn’t like him.
+
+We realized we had to do something against the racial profiling, our PCs suffered from. So that’s what we have done in the last past days. We thought about a neutral metric to determine which client has to be kicked… we decided to use the TIME, cause time doesn’t care about gender, race nor does it care about Intel® or AMD®. But does it work now?
+
+YES! Our clients stay connected until they are supposed to disconnect and nobody feels discriminated anymore.
+
+`Tom Cinbis on 27.4`
+
 # Graphic Update
 <img src="graphicupdate.png">
 
