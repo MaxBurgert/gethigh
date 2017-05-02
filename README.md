@@ -1,3 +1,10 @@
+# Player Camera And Generated Maps
+In the last week, we did not only rework our ping and improved our gamecycle, we also worked on a player camera. A player camera is basically the viewpoint of the player which is fixed to the character. So if you move your character, the view will move in accordance to the character. Therefore, it is now possible to play the game with different resolutions in fullscreen which increases the game experience a lot!
+
+We also made a first draft of a generator for our map. Since we are not longer bound to the screensize, greater maps are now possible which we need to fill with blocks.
+
+`Max Burgert on 02.5`
+
 # Ping and Pong - A story on it's own
 <img src="noMoreBugs.jpg">
 
