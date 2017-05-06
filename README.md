@@ -1,3 +1,15 @@
+# More enhancement!
+After we introduced the player camera and generated maps, we added a bunch of new features.
+
+At first, a "minimap" was added. This map represents the current state of the whole map and is located on the top left corner on the screen. It could be a valuable part to keep oriented because the winning point and your current location, as well as all set and mined blocks are displayed.
+
+Let me introduce you to a new blocktype, called teamblocks.
+Each of the two teams has its own block, which is colored in the team color to be distinguished from the normal blocktypes. Those blocks can only be set and mined by their own teams. The most interesting part on this blocktype is, that it only counts for the respective teams as blocks, for the other team the block is the same as air. So if a player jumps on a teamblock of the enemy team, he will fall through.
+
+We also enhanced our UI in the lobby, all chat commands where replaced by buttons and checkboxes.
+
+`Max Burgert on 06.5`
+
 # Player Camera And Generated Maps
 In the last week, we did not only rework our ping and improved our gamecycle, we also worked on a player camera. A player camera is basically the viewpoint of the player which is fixed to the character. So if you move your character, the view will move in accordance to the character. Therefore, it is now possible to play the game with different resolutions in fullscreen which increases the game experience a lot!
 
