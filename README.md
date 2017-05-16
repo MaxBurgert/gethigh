@@ -1,4 +1,23 @@
-# More enhancement!
+# Changing Key Bindings
+Humans are  mutable and so we made a new feature that the client can change his key bindings in accordance with his preferences. In addition to that, we also worked on our tutorial and a splash screen when the game starts. 
+
+Furthermore the map generator was changed, since the algorithm did not work properly when generating dirt and stone blocks, it either choosed one over the other. Now, below a surface of dirt blocks, chunks of stones - sometimes containing team blocks - are generated. Also some parts of the floating islands are now generated with stone, instead of beeing just made out of dirt blocks.
+
+`Max Burgert on 13.5`
+
+# Game Controller Support
+The game is now playble with common game controllers. We therefore implemented the LWGL3 library. Apart from that, to add diversity to the colors and graphics, newly player graphics are added and the team color is now choosed randomly
+This game is now way more fun to play!
+
+`Max Burgert on 11.5`
+
+# Tutorial
+Today we worked on the tutorial for our game. 
+By selecting Help -> Tutorial in the Lobby Window, a client can now start playing our tutorial. This tutorial will give an oversight of the mechanics, rules and tricks in the game. Step by step the client is guided through the features. After a new feature is introduced, the client then can apply the newly learned to get to the next step. 
+
+`Max Burgert on 08.5`
+
+# More enhancements!
 After we introduced the player camera and generated maps, we added a bunch of new features.
 
 At first, a "minimap" was added. This map represents the current state of the whole map and is located on the top left corner on the screen. It could be a valuable part to keep oriented because the winning point and your current location, as well as all set and mined blocks are displayed.
