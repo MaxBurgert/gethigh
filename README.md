@@ -1,3 +1,16 @@
+# Final steps
+With only three days left to the final milestone, we are mostly working on our documentation. The game manual is now up to date, as well as the documentation for the protocol. Also outlining the architecture of the game is a task we are currently working on.
+
+In terms of code we cleaned up some of the classes, added documentation where needed, improved and fixed several issues.
+To make the keybings more easily customizable, it is now possible to press a certain key which the client want's to assign to an action, and the respective key binding will be displayed in the field.
+
+`Max Burgert on 19.5`
+
+# How do I play?
+To make our game more enjoyable to others, we can now proudly present a working tutorial. The tutorial is accessible in the Lobby Window under 'Help - Tutorial'. In the tutorial the player gets introduced to the basic game mechanics, as well as the goal of the game.
+
+`Max Burgert on 16.5`
+
 # Changing Key Bindings
 Humans are  mutable and so we made a new feature that the client can change his key bindings in accordance with his preferences. In addition to that, we also worked on our tutorial and a splash screen when the game starts. 
 
@@ -6,7 +19,7 @@ Furthermore the map generator was changed, since the algorithm did not work prop
 `Max Burgert on 13.5`
 
 # Game Controller Support
-The game is now playble with common game controllers. We therefore implemented the LWGL3 library. Apart from that, to add diversity to the colors and graphics, newly player graphics are added and the team color is now choosed randomly
+The game is now playble with common game controllers. We therefore implemented the LWJGL3 library. Apart from that, to add diversity to the colors and graphics, newly player graphics are added and the team color is now choosed randomly
 This game is now way more fun to play!
 
 `Max Burgert on 11.5`
