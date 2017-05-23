@@ -1,3 +1,8 @@
+# Done
+We are proud to announce our game 'get High' is now available for download [here] (http://get-high.ch/download.html)
+
+`Tom Cinbis on 22.5`
+
 # Final steps
 With only three days left to the final milestone, we are mostly working on our documentation. The game manual is now up to date, as well as the documentation for the protocol. Also outlining the architecture of the game is a task we are currently working on.
 
