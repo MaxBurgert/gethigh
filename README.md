@@ -1,5 +1,5 @@
 # Done
-We are proud to announce our game 'get High' is now available for download [here](http://get-high.ch/download.html)
+We are proud to announce our game 'get High' is now available for download [here](http://get-high.ch/download.html).
 The manual can be found [here](manual.pdf)
 
 `Tom Cinbis on 22.5`
